@@ -1,1 +1,1 @@
-# liquibasexmlbasedspringboot
+# liquibase-xml-based-springboot
